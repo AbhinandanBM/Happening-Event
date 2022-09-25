@@ -26,8 +26,8 @@ Welcome to Happening Event
 
 ## Admin Panel
 
+![admin-login](https://user-images.githubusercontent.com/72445333/192133993-17c6d224-8821-4fbb-b259-1febec617219.jpg)
 ![admin-panel](https://user-images.githubusercontent.com/72445333/192133501-7af47d39-bd60-4f3b-ab76-18d446771b18.jpg)
-![admin-login](https://user-images.githubusercontent.com/72445333/192133861-c16ea6ae-9a6d-4816-ae8e-3b5eacd40b56.jpg)
 
 
 ## Feedback
