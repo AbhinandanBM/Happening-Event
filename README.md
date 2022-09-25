@@ -24,6 +24,11 @@ Welcome to Happening Event
 ![Footer-page](https://user-images.githubusercontent.com/72445333/192084879-d3e8e67b-056b-404c-8be9-55d80c1edf3e.jpg)
 
 
+## Admin Panel
+
+![admin-panel](https://user-images.githubusercontent.com/72445333/192133501-7af47d39-bd60-4f3b-ab76-18d446771b18.jpg)
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at Errorboys@gmail.com
