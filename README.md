@@ -1,19 +1,28 @@
-
 # Happening Event
 
-Welcome to Happening Event
+This project aims to develop a web application for managing events seamlessly. It will cater to users who want to create, register for, and attend events efficiently.
 
 
-## About
 
- Book Any event, Anytime, Anywhere in the city at Happening Event - The easiest, cheapest and hassle free "WAY" to your favorite events in the city. Smile a little, Laugh a lot, Interact and have a great time at various upcoming and entertaining events with your friends.
+
+## Features
+
+-   **Event Creation:** Users can easily create and publish events, providing details such as title, description, date, time, location, category, and images.
+-   **Event Registration:** Users can browse through upcoming events, discover relevant ones based on their interests, and register for them with a simple interface.
+-   **Event Management:** Event organizers can edit and manage their events, update schedules, track registrations, and communicate with attendees.
+-   **User Management:** Users can create profiles, manage their preferences, track their registered events, and receive notifications.
+-   **Search and Filtering:** Users can search for events based on various criteria like keyword, category, date, location, and organizer.
 
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Bootstrap, JavaScript
+**Front-End:** HTML, CSS, Bootstrap, Javascript
 
-**Server:** PHP, Mysql
+**Back-End:** Php, Mysql
+
+**Database:** Mysql
+
+
 
 
 ## Screenshots
@@ -24,13 +33,8 @@ Welcome to Happening Event
 ![Footer-page](https://user-images.githubusercontent.com/72445333/192084879-d3e8e67b-056b-404c-8be9-55d80c1edf3e.jpg)
 
 
-## Admin Panel
-
-![admin-login](https://user-images.githubusercontent.com/72445333/192133993-17c6d224-8821-4fbb-b259-1febec617219.jpg)
-![admin-panel](https://user-images.githubusercontent.com/72445333/192133501-7af47d39-bd60-4f3b-ab76-18d446771b18.jpg)
-
 
 ## Feedback
 
-If you have any feedback, please reach out to us at Errorboys@gmail.com
+Feel free to contact us through GitHub issues or email for any questions or feedback.
 
