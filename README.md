@@ -1,4 +1,4 @@
-# Happening Event
+# Happening Event: Your all-in-one event management website. Plan with ease, impress with style. ✨
 
 This project aims to develop a web application for managing events seamlessly. It will cater to users who want to create, register for, and attend events efficiently.
 
